@@ -38,6 +38,7 @@
   </style>
 </head>
 <body>
+  <img src="{{ public_path('logo.png') }}" style="width:120px; margin-bottom:20px;">
   <h1>Proposal for {{ $client_name }}</h1>
 
   <div class="section">
